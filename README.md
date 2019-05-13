@@ -32,8 +32,13 @@ Platform: Windows
 Author: Nikolai Ovtsinnikov  / Estonia / 2019 / nikolai.ovtsinnikov@gmail.com
 
 v1.0.0: Game made
+
 v1.0.1: Code made more readable, added some new features, bugfixes
+
 v1.0.2: Added check for same letter input
+
 v1.0.3: Added main loop reset after lose
+
 v1.0.4: Grouped some code into different functions
+
 v1.0.4: Fixed main loop reset, some other minor changes

@@ -1,4 +1,7 @@
-# C++ HANGMAN GAME   EST/ENG
+# C++ HANGMAN GAME
+## EST/ENG
+
+### EST
 
 Minu lõputöö on programm ( täpsemalt mäng ) HANGMAN ehk Poomine.
 

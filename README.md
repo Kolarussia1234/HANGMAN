@@ -31,21 +31,21 @@ Sisestamine toimub koheselt - ENTERit vajutama ei pea.
 
 My endproject is a HANGMAN game.
 
-Rules are easy:
+**Rules are easy:**
 
-There is a one secret word which have to open by guessing ( and entering ) letters;
+There is a one secret word which you have to open by guessing ( and entering ) letters.
 
 You have 5 tries, so if you enter a letter wrong for one time, then
 you have 4 more tries left and so on. 
 If you have tried all 5 times then the game ends and you lose.
 Of course you can try again or close the game.
-If you've entered the right letter, then tries are not take down and the program
+If you've entered the right letter, then tries are not taken down ( you don't lose tries ) and the program
 shows you how many letters are the to go.
 
 NB! If there are multiple same letters in a word - for example "immediately" or whatever and you
 input letter 'm' then both 'm's are opened ( this should be logical :) ).
 
-The word is this game is not case senstitive.
+The word in this game is not case sensitive.
 
 Inputting is instantaneous - you don't have to press ENTER.
 
@@ -55,7 +55,7 @@ Version: v1.0.5
 
 Platform: Windows
 
-Author: Nikolai Ovtsinnikov  / Estonia / 2019 / nikolai.ovtsinnikov@gmail.com
+Author: Nikolai Ovtsinnikov / Estonia / 2019 / nikolai.ovtsinnikov@gmail.com
 
 v1.0.0: Game made
 

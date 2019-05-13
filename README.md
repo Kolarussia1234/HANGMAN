@@ -27,6 +27,7 @@ tähe programm loeb mõlemad õigeks.
 
 Sisestamine toimub koheselt - ENTERit vajutama ei pea.
 
+### ENG
 
 Version: v1.0.5
 
